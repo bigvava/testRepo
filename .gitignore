@@ -90,3 +90,6 @@ ipch/
 *.idb
 *.csproj.user
 *.sln.cache
+
+# security configurations
+**/appsettings.json
